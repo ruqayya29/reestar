@@ -42,6 +42,7 @@ body {
   height: 350px;
   /* fixed height */
   display: block;
+  object-fit: cover;
 }
 
 .section2__s1 h2 {
@@ -86,4 +87,5 @@ body {
   height: 30px;
   background-color: yellow;
   color: black;
+
 }
